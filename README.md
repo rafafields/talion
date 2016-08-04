@@ -6,3 +6,13 @@ He seguido leyendo sobre el problema que hablábamos de las imágenes, hay gente
 https://libgdx.badlogicgames.com/nightlies/docs/api/com/badlogic/gdx/graphics/glutils/ShapeRenderer.html
 
 Mas cosas, al drive le hace falta tmb hacer, qué pasa cuando termina la partida, para esto deberíamos hacer skype
+
+Al menu que sale cuando le das a Friends (titlescreen), hay que añadir block friend (pal tipico pesao) y esto hace, que tengamos que decidir (y en verdad, está bien que haya salido ahora) que significan ahí los amigos:
+      Opciones: 
+            A) Tu insertas el nick de una persona y te aparece
+              A.1)Puedes configurar en option si quieres que otra persona te mande partida directamente, que aparezca en tus amigos o lo tengas que aprobar previamente (+trabajo pa mí, +cómodo pa la gente,+1Tienes que hacer un diseño de un desplegable con las opciones)
+            B) Tu insertas el nick de una persona, y si la otra persona te añade os salis mutuamente
+              B.1) Le sale la notificación y si te acepta os añadís
+              B.2) Ambos tienen que buscarse mutuamente(Not logic)
+              
+Cuando te de por leer esto vas a flipar de to lo que te he mandao, que posiblemente no esperases novedades
