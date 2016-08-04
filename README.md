@@ -18,3 +18,5 @@ Al menu que sale cuando le das a Friends (titlescreen), hay que añadir block fr
 Cuando te de por leer esto vas a flipar de to lo que te he mandao, que posiblemente no esperases novedades
 
 Otra cosa más, para las fotos, si al final se hacen en jpg y tal, haz una inicial en 4k (te es posible eso?) y después las minimizas para la versión para pc y para la de móvil, y así en ningún momento perdemos calidad en la imagen.
+
+De las cosas que tienes que hacer, lo más prioritario es la carta. Intenta que sea novedosa/original, pero sin flipar xD Tú puedes :D
