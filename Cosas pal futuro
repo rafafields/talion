@@ -1,7 +1,8 @@
 Esto en verdad es para mí, es para dejarme notitas para el yo del futuro :D
 
-Mejorar cursos
+Mejorar cursor
 Crear screen blocks
 Alinear opciones
 Pantalla dinámica
 SoundManager no se usa
+Error en song.pause (modo resume,flagsong==0)
