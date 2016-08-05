@@ -7,3 +7,15 @@ Pantalla dinámica
 SoundManager no se usa
 Error en song.pause (modo resume,flagsong==0)
 Suena igual 0.99f que 0.50f
+
+Save data
+  A) XML
+    - Más lento y pesados que json en las cosas que pueden ser json (creo que requiere conversión para subirlo al server,
+      but not sure)
+    -Menos tráfico en el servidor
+  B)  JSON+XML
+    -Puede que algo más eficiente en peso (NI SIQUIERA SEGURO!!)
+    -Más tráfico en el server
+    -Si lo de la conversión existe, puede que no sea ni tan rentable en espacio, o quizás sea mucho más rentable, ni idea
+    
+    
