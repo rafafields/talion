@@ -6,3 +6,4 @@ Alinear opciones
 Pantalla dinámica
 SoundManager no se usa
 Error en song.pause (modo resume,flagsong==0)
+Suena igual 0.99f que 0.50f
