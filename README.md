@@ -23,3 +23,6 @@ De las cosas que tienes que hacer, lo más prioritario es la carta. Intenta que 
 
 Por cierto, me tienes que decir, cómo quieres que subdividala pantalla, 3x3,4x4,6x4...o incluso podría hacerla dinámica, en plan que se adaptase según las necesidades, en plan, si es de 3 pulgadas, que haga 3x3, si es de 5, que haga 6x4...y así, pero me tienes que pasar lo que sea (prefiero que me digas eso tú, que ya has tratado con los bloques, que sabrás cuál es mejor :D
 PD: en la forma que pensamos inicialmente, cada bloque es un cuadrado del mismo tamaño, pero si quieres que sea más pro, y que no todos los cuadrados sean iguales, tmb podría hacerlo, pero me tienes que hacer la especificación :D
+
+To check later
+http://www.mediavida.com/foro/dev/android-crear-app-cliente-app-servidor-431896
