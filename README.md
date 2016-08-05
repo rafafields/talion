@@ -20,3 +20,6 @@ Cuando te de por leer esto vas a flipar de to lo que te he mandao, que posibleme
 Otra cosa más, para las fotos, si al final se hacen en jpg y tal, haz una inicial en 4k (te es posible eso?) y después las minimizas para la versión para pc y para la de móvil, y así en ningún momento perdemos calidad en la imagen.
 
 De las cosas que tienes que hacer, lo más prioritario es la carta. Intenta que sea novedosa/original, pero sin flipar xD Tú puedes :D
+
+Por cierto, me tienes que decir, cómo quieres que subdividala pantalla, 3x3,4x4,6x4...o incluso podría hacerla dinámica, en plan que se adaptase según las necesidades, en plan, si es de 3 pulgadas, que haga 3x3, si es de 5, que haga 6x4...y así, pero me tienes que pasar lo que sea (prefiero que me digas eso tú, que ya has tratado con los bloques, que sabrás cuál es mejor :D
+PD: en la forma que pensamos inicialmente, cada bloque es un cuadrado del mismo tamaño, pero si quieres que sea más pro, y que no todos los cuadrados sean iguales, tmb podría hacerlo, pero me tienes que hacer la especificación :D
