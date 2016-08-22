@@ -22,6 +22,7 @@ Save data
     
     
     Cliente/Servidor
+    Ejemplo usado: http://www.gamefromscratch.com/post/2014/03/11/LibGDX-Tutorial-10-Basic-networking.aspx
     
     Posible error:
     stage.setViewport(new ExtendViewport(VIRTUAL_SCREEN_WIDTH, VIRTUAL_SCREEN_HEIGHT));
@@ -42,5 +43,9 @@ Android device.
 
 ----------------------------------
 En socket el uso de INPUT/OUTPUT es distinto en el manual (está en favoritos guardado) y en la descripción de Eclipse
+    
+    ------------------
+    EN CASO DE CONEXIÓN CHUNGA:
+    https://github.com/EsotericSoftware/kryonet
     
     
