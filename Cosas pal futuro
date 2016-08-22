@@ -19,3 +19,28 @@ Save data
     -Si lo de la conversión existe, puede que no sea ni tan rentable en espacio, o quizás sea mucho más rentable, ni idea
     
     
+    
+    
+    Cliente/Servidor
+    
+    Posible error:
+    stage.setViewport(new ExtendViewport(VIRTUAL_SCREEN_WIDTH, VIRTUAL_SCREEN_HEIGHT));
+  instead of
+  stage.setViewport(VIRTUAL_SCREEN_WIDTH, VIRTUAL_SCREEN_HEIGHT,false);
+  -----------------------
+  
+  Posible solución alternativa al error anterior:
+  For that section, I used:
+
+stage.getCamera().viewportWidth = VIRTUAL_SCREEN_WIDTH;
+stage.getCamera().viewportHeight = VIRTUAL_SCREEN_HEIGHT;
+stage.getCamera().position.set(VIRTUAL_SCREEN_WIDTH / 2, VIRTUAL_SCREEN_HEIGHT / 2, 0);
+
+I found that using the setViewport was blocking the InputProcessor from allowing you to enter text into the TextArea's 
+or from clicking the button. Once I changed this, I was able to see the Actor's and communicate between my desktop and 
+Android device.
+
+----------------------------------
+En socket el uso de INPUT/OUTPUT es distinto en el manual (está en favoritos guardado) y en la descripción de Eclipse
+    
+    
